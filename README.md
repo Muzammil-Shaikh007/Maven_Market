@@ -1,1 +1,2 @@
 This Project was based on Maven Analytics bonus project on Udemy. The dataset and my final project has been attached I've used various DAX Queries to create Measures, Power Query Editor to format datatype of the columns and created Visuals showing Transactions, Region Wise Customers, Profit, etc and added Slicers for selection of Years.
+For Transactions Years I've made folder and loaded them directly by selecting folder option in Power BI.
